@@ -9,7 +9,7 @@ Sebuah aplikasi desktop dengan antarmuka CLI yang dibuat menggunakan bahasa pemr
 Fungsional
 
 ### Cara penggunaan
-[![Video penjelasan](https://i9.ytimg.com/vi/EcOa92Pl-c8/maxresdefault.jpg?time=1654445700000&sqp=CISt85QG&rs=AOn4CLDyY7mqiVlA6s0TelMI5armO69NAQ)](https://youtu.be/EcOa92Pl-c8)
+[![Video penjelasan](https://drive.google.com/uc?export=download&id=1lkb_Cke_TUVtiQkoCw_fqbIt7jkOyW7w)](https://youtu.be/EcOa92Pl-c8)
 
 ### Lampiran
 ![Lampiran 1](https://drive.google.com/uc?export=download&id=1d5sNuKeAo4ZZdOB_a3u3U8zM8_nn4g08)
